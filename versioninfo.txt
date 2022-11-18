@@ -1,0 +1,12 @@
+# VERSION
+0.0.1
+
+# BUILD
+00.00.00
+
+# DESCRIPTION
+This is the first Demo release of
+Low Power Mode PC Software
+
+# FILES
+none
