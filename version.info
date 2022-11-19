@@ -1,5 +1,1 @@
-{
-  "VERSION": "0.0.1",
-  "BUILD": "00.00.00",
-  "DESCRIPTION": "This is a first Demo release",
-}
+{ "VERSION": "0.0.1", "BUILD": "00.00.00", "DESCRIPTION": "This is a first Demo release"}
